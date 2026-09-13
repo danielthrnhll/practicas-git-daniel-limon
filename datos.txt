@@ -1,3 +1,5 @@
 archivo que sera subido a GitHub para poder tener un control de versiones en la nube y publico
 
 este archivo fue modificado desde github
+
+Este archivo fue modificado desde el repositorio local
